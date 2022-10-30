@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Beginner Coding"
+    url: /beginner_coding/
+  - title: "Hardware"
+    url: /hardware/
+  - title: "Software"
+    url: /software/
+  - title: "Coding"
+    url: /coding/

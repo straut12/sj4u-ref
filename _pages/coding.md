@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /coding/
+title: "Coding"
 toc: true
 toc_sticky: true
 ---

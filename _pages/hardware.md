@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /hardware/
+title: "Hardware"
 toc: true
 toc_sticky: true
 ---

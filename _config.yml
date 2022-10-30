@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SJ4U
+title: STEMJust4U
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website is my attempt to document, in one location, various STEM concepts I hope to incorporate in a Maker space some day. 
+  It contains tutorials and links to resources useful for learning STEM, with a focus on Raspberry Pi (and other Linux distros), 
+  Scratch, Python, javascript, and circuits. It is meant to be a reference tool and not a step-by-step guide. If you are interested 
+  in STEM and Linux, and want to learn more in those areas, then hopefully the information here will be useful.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://straut12.github.io" # the base hostname & protocol for your site
 twitter_username: username
@@ -62,9 +63,9 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "SJ4U"
+  avatar : "/assets/images/small_logo.png"
+  bio    : "Building a STEM Community"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

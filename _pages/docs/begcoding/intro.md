@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /docs/begcoding/intro/
+title: "Beginner Coding Intro"
 toc: true
 toc_sticky: true
 ---

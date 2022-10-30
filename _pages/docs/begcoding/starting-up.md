@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /docs/begcoding/starting-up/
+title: "Getting Started with Scratch"
 toc: true
 toc_sticky: true
 ---
