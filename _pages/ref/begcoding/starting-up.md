@@ -1,5 +1,5 @@
 ---
-permalink: /docs/begcoding/starting-up/
+permalink: /ref/begcoding/starting-up/
 title: "Getting Started with Scratch"
 toc: true
 toc_sticky: true

@@ -1,5 +1,5 @@
 ---
-permalink: /docs/begcoding/intro/
+permalink: /ref/begcoding/intro/
 title: "Beginner Coding"
 toc: true
 toc_sticky: true
@@ -39,6 +39,11 @@ Have fun with scratch while learning and utilizing good coding practices. Use fu
 Once you understand basic coding concepts from Scratch you can move on to a text-based language like Python. Python is a typed-programming language that it is very "readable"; meaning the syntax is similar to how you would write something. For example print("hello") will output "hello" to your screen.
 
 There are countless tutorials for learning Python in various formats (written, video, on-line classes, in-person classes). I'm not going to try and duplicate what they've already done so the best option is to hit the Google Search and try some out. At this point you can't go wrong. You can dive into Python via gaming, web development, circuits, minecraft, or just focus on Python itself.
+
+[Python](https://www.python.org/downloads/) comes pre-installed on Raspberry Pi/Linux systems. Or you can install on a PC, too.
+
+> If you do not have a Raspberry Pi and do not want to install Python on your PC you can check out a web browser version with [trinket.io](https://trinket.io/) There are tutorials there for building with trinket.io.
+Another option is the official [Python.org](https://www.python.org/shell/) web site that has a web console
 
 ## Basic Python
 - [w3schools](https://www.w3schools.com/python/) is a good reference
@@ -180,6 +185,3 @@ def update_pipes():
     if pipe_top.right < 0:
         reset_pipes()
 ```
-
-> If you do not have a Raspberry Pi and do not want to install Python on your PC you can check out a web browser version with [trinket.io](https://trinket.io/) There are tutorials there for building with trinket.io.
-Another option is the official [Python.org](https://www.python.org/shell/) web site that has a web console
